@@ -16,7 +16,7 @@
 
 ## 使用技術・ライブラリ
 - 使用言語：Processing 
-- 使用ライブラリ：
+- 使用ライブラリ：なし
 
 ---
 
@@ -46,4 +46,5 @@
 ---
 
 ## スクリーンショット / GIF
-例：![作品のスクショ](images/スクリーンショット2025-09-25140424.png)
+<img width="477" height="476" alt="スクリーンショット 2025-10-07 140744" src="https://github.com/user-attachments/assets/d84cc65b-624e-4da8-b3e5-fc1856673a6d" />
+
